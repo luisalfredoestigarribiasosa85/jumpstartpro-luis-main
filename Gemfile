@@ -109,7 +109,7 @@ gem "pretender", "~> 0.4.0"
 gem "pundit", "~> 2.1"
 gem "receipts", "~> 2.0.0"
 gem "responders", github: "excid3/responders", branch: "fix-redirect-status-config"
-gem "rotp", "~> 6.2"
+gem "rotp", "~> 6.3"
 gem "rqrcode", "~> 2.1"
 gem "ruby-oembed", "~> 0.16.0", require: "oembed"
 gem "whenever", "~> 1.0", require: false

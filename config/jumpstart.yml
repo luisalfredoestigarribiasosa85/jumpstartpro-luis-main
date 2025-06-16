@@ -1,0 +1,17 @@
+---
+application_name: My App
+business_name: My Company, LLC
+business_address: 
+domain: 
+support_email: 
+default_from_email: 
+background_job_processor: 
+email_provider: 
+account_types: both
+apns: false
+fcm: false
+integrations:
+omniauth_providers:
+payment_processors:
+multitenancy:
+gems:
